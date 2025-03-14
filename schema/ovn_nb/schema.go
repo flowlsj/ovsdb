@@ -2648,6 +2648,7 @@ type LogicalSwitch struct {
 	Uuid         string            `json:"_uuid"`
 	Version      string            `json:"_version"`
 	Acls         []string          `json:"acls"`
+	Copp         []string          `json:"copp"`
 	DnsRecords   []string          `json:"dns_records"`
 	ExternalIds  map[string]string `json:"external_ids"`
 	LoadBalancer []string          `json:"load_balancer"`
