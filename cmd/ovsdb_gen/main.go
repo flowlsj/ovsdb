@@ -8,7 +8,7 @@ import (
 
 	"github.com/golang/glog"
 
-	"yunion.io/x/ovsdb/types"
+	"aicloud/ovsdb/types"
 )
 
 const (

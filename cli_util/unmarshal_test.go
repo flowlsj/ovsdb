@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"yunion.io/x/ovsdb/schema/ovn_nb"
+	"aicloud/ovsdb/schema/ovn_nb"
 )
 
 func TestUnmarshal(t *testing.T) {

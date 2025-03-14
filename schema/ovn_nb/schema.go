@@ -7,7 +7,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"yunion.io/x/ovsdb/types"
+	"aicloud/ovsdb/types"
 )
 
 type OVNNorthbound struct {

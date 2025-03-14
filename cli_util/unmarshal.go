@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"yunion.io/x/ovsdb/types"
+	"aicloud/ovsdb/types"
 )
 
 type List struct {

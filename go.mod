@@ -1,4 +1,4 @@
-module yunion.io/x/ovsdb
+module aicloud/ovsdb
 
 go 1.14
 
