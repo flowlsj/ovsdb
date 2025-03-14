@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"aicloud/ovsdb/types"
+	"github.com/flowlsj/ovsdb/types"
 )
 
 type List struct {

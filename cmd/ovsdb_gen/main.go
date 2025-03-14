@@ -8,7 +8,7 @@ import (
 
 	"github.com/golang/glog"
 
-	"aicloud/ovsdb/types"
+	"github.com/flowlsj/ovsdb/types"
 )
 
 const (

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"aicloud/ovsdb/schema/ovn_nb"
+	"github.com/flowlsj/ovsdb/schema/ovn_nb"
 )
 
 func TestUnmarshal(t *testing.T) {

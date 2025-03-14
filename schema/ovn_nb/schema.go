@@ -7,7 +7,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"aicloud/ovsdb/types"
+	"github.com/flowlsj/ovsdb/types"
 )
 
 type OVNNorthbound struct {

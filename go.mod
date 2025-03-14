@@ -1,4 +1,4 @@
-module aicloud/ovsdb
+module github.com/flowlsj/ovsdb
 
 go 1.14
 
